@@ -1,0 +1,2 @@
+           n      sorted    reversed    shuffled
+     1048576       0.730       0.728       0.676
